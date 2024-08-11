@@ -13,8 +13,8 @@ print('Starting up bot...')
 
 load_dotenv()
 
-TOKEN = os.getenv('TELEGRAM_TOKEN')
-BOTNAME = os.getenv('BOTNAME')
+TOKEN = os.getenv('7248516582:AAHx2DeRlxiU21-uKV-NmC0r6Z56PwJkDK4')
+BOTNAME = os.getenv('NCH GPT')
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
