@@ -17,8 +17,8 @@ Before diving into the code, you'll need to create a new bot on Telegram. Follow
 Clone the code repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/emingenc/telegramGPT.git
-cd telegramGPT
+git clone https://github.com/painbot0099/NCH-GPT.git
+cd NCH-GPT
 ```
 
 ## Step 3: Installing the dependencies  
